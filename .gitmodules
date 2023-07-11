@@ -1,0 +1,3 @@
+[submodule "FishFuzz-upstream"]
+	path = FishFuzz-upstream
+	url = https://github.com/fuzz-evaluator/FishFuzz-upstream.git

@@ -1,0 +1,1 @@
+TWO_STAGE_ARTIFACT_DOCKER_IMAGE_NAME="fishfuzz-two-stage"

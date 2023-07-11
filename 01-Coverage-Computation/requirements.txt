@@ -1,0 +1,8 @@
+altair==5.0.1
+ipykernel==6.25.0
+pip==20.0.2
+pip-chill==1.0.3
+progress==1.6
+setuptools==45.2.0
+vl-convert-python==0.11.2
+wheel==0.34.2
